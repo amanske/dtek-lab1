@@ -1,1 +1,3 @@
-# dtek-lab1
+# First dtek task
+
+By Alexander Manske and Fredrik Liljedahl
